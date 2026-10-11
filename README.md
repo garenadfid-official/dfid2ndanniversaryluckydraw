@@ -1,2 +1,2 @@
-# dfid2ndanniversaryluckydraw
-Repository untuk DFID 2nd Anniversary Lucky Draw
+# DF Indonesia 2nd Anniversary Grand Prize Lucky Draw
+Config DFID 2nd Anniversary Grand Prize Lucky Draw
